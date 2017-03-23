@@ -18,4 +18,4 @@ PRODUCT_MODEL := SHV-E250K
 PRODUCT_MANUFACTURER := samsung
 
 # Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=t0lteskt TARGET_DEVICE=t0lteskt BUILD_FINGERPRINT="samsung/t0ltektt/t0ltektt:4.4.2/KOT49H/E250KKSUKNI2:user/release-keys" PRIVATE_BUILD_DESC="t0ltektt-user 4.4.2 KOT49H E250KKSUKNI2 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=t0ltektt TARGET_DEVICE=t0ltektt BUILD_FINGERPRINT="samsung/t0ltektt/t0ltektt:4.4.2/KOT49H/E250KKTUKNI1:user/release-keys" PRIVATE_BUILD_DESC="t0ltektt-user 4.4.2 KOT49H E250KKTUKNI1 release-keys"
